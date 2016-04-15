@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-15T16:15:43.481Z'
-dateModified: '2016-04-15T16:15:30.199Z'
+datePublished: '2016-04-15T16:47:45.175Z'
+dateModified: '2016-04-15T16:42:29.149Z'
 title: Foolish Kings
 author: []
+sourcePath: _posts/2016-04-15-foolish-kings.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-15-foolish-kings.md
-published: true
 url: foolish-kings/index.html
 _type: Article
 
