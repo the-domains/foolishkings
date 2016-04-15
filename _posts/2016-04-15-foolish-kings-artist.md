@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Green River Ordinance
-datePublished: '2016-04-15T17:55:30.544Z'
-dateModified: '2016-04-15T17:55:23.042Z'
+datePublished: '2016-04-15T17:59:59.332Z'
+dateModified: '2016-04-15T17:56:47.326Z'
 title: Foolish Kings Artist
 author: []
 sourcePath: _posts/2016-04-15-foolish-kings-artist.md
@@ -34,6 +34,6 @@ Rob Baird
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d9f7530-9429-4e1e-a922-c40dc03a04f4.jpg)
 
 Mansell
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de03cc63-0c96-4232-a788-1fb7f1c67478.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/acc80cdd19151c4044936f56686c1327911d2b5f.jpg)
 
 Troy Cartwright
