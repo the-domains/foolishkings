@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "\_Finding that “something more” has been the core of the band’s mission since they first came together as teenagers 15 years ago, and it has remained central ever since. All of the band members have pursuits outside of music: guitarist Jamey Ice and his wife co-own BREWED, a coffee shop/pub in Fort Worth that was named one of the best in the U.S. His brother Geoff, the band’s bassist, is wrapping up his MBA. Drummer Denton Hunker designs leather and canvas bags for the company he founded, Hunker Bag Co. Guitarist Joshua Wilkerson is an avid cyclist who rides with the Fort Worth group Night Riders and Jenkins, in his down time from GRO, has co-written songs with some of country’s most notable artists. But even more than their hobbies and entrepreneurial pursuits, Green River Ordinance are a band dedicated to making a lasting difference not only in the lives of their fans, but in the world at large.\_"
-datePublished: '2016-04-15T15:07:00.826Z'
-dateModified: '2016-04-15T15:06:38.582Z'
-title: ''
+datePublished: '2016-04-15T15:14:10.583Z'
+dateModified: '2016-04-15T15:13:41.317Z'
+title: Green River Ordinance
 author: []
+sourcePath: _posts/2016-04-15-finding-that-something-more-has-been-the-core-of-the-band.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-15-finding-that-something-more-has-been-the-core-of-the-band.md
-published: true
 url: finding-that-something-more-has-been-the-core-of-the-band/index.html
 _type: Article
 
