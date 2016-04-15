@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "“It’s Southern raised Indie-Rock\"\_"
-datePublished: '2016-04-15T16:25:05.136Z'
-dateModified: '2016-04-15T16:24:44.398Z'
-title: ''
+datePublished: '2016-04-15T16:40:24.950Z'
+dateModified: '2016-04-15T16:26:27.896Z'
+title: The Roosevelts
 author: []
+sourcePath: _posts/2016-04-15-its-southern-raised-indie-rock.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-15-its-southern-raised-indie-rock.md
-published: true
 url: its-southern-raised-indie-rock/index.html
 _type: Article
 
