@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-15T17:24:29.042Z'
-dateModified: '2016-04-15T17:23:27.397Z'
+datePublished: '2016-04-15T17:31:03.182Z'
+dateModified: '2016-04-15T17:29:31.522Z'
 title: Foolish Kings Artist
 author: []
+sourcePath: _posts/2016-04-15-foolish-kings-artist.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-15-foolish-kings-artist.md
-published: true
 url: foolish-kings-artist/index.html
 _type: WebPage
 
