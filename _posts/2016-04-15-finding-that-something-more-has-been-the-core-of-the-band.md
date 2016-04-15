@@ -1,0 +1,42 @@
+---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+starred: false
+keywords: []
+description: "\_Finding that “something more” has been the core of the band’s mission since they first came together as teenagers 15 years ago, and it has remained central ever since. All of the band members have pursuits outside of music: guitarist Jamey Ice and his wife co-own BREWED, a coffee shop/pub in Fort Worth that was named one of the best in the U.S. His brother Geoff, the band’s bassist, is wrapping up his MBA. Drummer Denton Hunker designs leather and canvas bags for the company he founded, Hunker Bag Co. Guitarist Joshua Wilkerson is an avid cyclist who rides with the Fort Worth group Night Riders and Jenkins, in his down time from GRO, has co-written songs with some of country’s most notable artists. But even more than their hobbies and entrepreneurial pursuits, Green River Ordinance are a band dedicated to making a lasting difference not only in the lives of their fans, but in the world at large.\_"
+datePublished: '2016-04-15T15:07:00.826Z'
+dateModified: '2016-04-15T15:06:38.582Z'
+title: ''
+author: []
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+sourcePath: _posts/2016-04-15-finding-that-something-more-has-been-the-core-of-the-band.md
+published: true
+url: finding-that-something-more-has-been-the-core-of-the-band/index.html
+_type: Article
+
+---
+GREEN RIVER ORDINANCE
+Josh Jenkins -- lead vocals, acoustic guitar
+Jamey Ice -- guitars, banjo, mandolin
+Joshua Wilkerson -- guitars, backup vocals, mandolin, piano
+Geoff Ice -- bass, backup vocals, harmonica
+Denton Hunker -- drums, percussion
+At the core of Fifteen, the third studio album from Green River Ordinance, is a simple message: hold fast to the things that are true. On album opener "Keep Your Cool," over slow, smoky guitars and a clear, bright church organ they advise, "Get your head out the clouds/ feet on the ground/ pride don't mean you gotta be too proud." If there's a single lyric that sums up the way Green River Ordinance have conducted themselves over the course of the last decade and a half, that's it --- no matter what's going on around you, remember to stay grounded and focus on the things that are important. "We're at our best when we're challenging ourselves about why we're doing what we do," explains frontman Josh Jenkins. "The purpose can't be to sell a bunch of records --- it has to be about something more." 
+
+Finding that "something more" has been the core of the band's mission since they first came together as teenagers 15 years ago, and it has remained central ever since. All of the band members have pursuits outside of music: guitarist Jamey Ice and his wife co-own BREWED, a coffee shop/pub in Fort Worth that was named one of the best in the U.S. His brother Geoff, the band's bassist, is wrapping up his MBA. Drummer Denton Hunker designs leather and canvas bags for the company he founded, Hunker Bag Co. Guitarist Joshua Wilkerson is an avid cyclist who rides with the Fort Worth group Night Riders and Jenkins, in his down time from GRO, has co-written songs with some of country's most notable artists. But even more than their hobbies and entrepreneurial pursuits, Green River Ordinance are a band dedicated to making a lasting difference not only in the lives of their fans, but in the world at large. 
+
+That was the mission behind their Hope GROs initiative, where each of the band members donates proceeds from concerts and album sales to a charity of their choice. And it informs the work Jamey and his wife do with The Net, a non-profit dedicated to providing a support system for homeless women. "This is the thing Green River Ordinance stands for," Jenkins explains. "We believe that you truly find yourself when you give yourself away. Any time we get the chance to do that, to us, that's what it's all about." That shared vision is made stronger by the group's close bond, built over years of playing and touring together. They're a family more than a group of musicians, and those strong ties come through in every chord. "There's got to be a collective humility," says Jenkins. "The reason we've been able to survive is that we're each able to see when we're at fault, and we're able to humble ourselves and have a conversation about it." Ice concurs: "In our band," he says, "you check your ego at the door." 
+
+That honesty and closeness reverberates throughout Fifteen. The rollicking "Red Fire Night" begins with the band harmonizing a cappella: "Meet me under that red fire night/ ...I'll bring the whiskey, you bring the wine." "That song is about just enjoying life," Jenkins says, "Just spending time with friends and celebrating." Ice agrees. "There are a lot of things that can bring you joy," he says. "You can watch Netflix for 20 hours and that can be fun. But really experiencing life, those good moments with friends and family --- that's what brings the deeper joy." That same idea turns up again in the moving campfire country ballad "Simple Life," where Jenkins sings, "I love the simple life, front porch and my lover's eyes/ green grass and an open sky/ I love the simple life." The song opens to become one of the band's warmest and most graceful numbers to date, rich with pedal steel and twinkling piano. And "Life in the Wind," a see-sawing acoustic sing-along, celebrates casting off the mundane day to day in favor of a life that's fuller and more satisfying. "There's life in the wind," Jenkins sings in the chorus, "let yourselves out and jump right in." 
+
+Much of the freedom found on Fifteen comes from the fact that the band recorded it on their own terms. After walking away from a contract with EMI in 2011, they set out to make the kind of music that was true to them, away from the demands and restrictions of commercial music. "In that world, everything is about the three minute pop hit," explains Jenkins. "We wanted the freedom to dig in and create our own sound." Their first experiment out of the gate validated their instincts: "Dancing Shoes" became a breakout hit for the group, landing in rotation on Sirius XM and selling upwards of 150,000 singles, bigger than anything they'd done while they were on EMI. For Fifteen, they continued making music on their own terms, writing the bulk of the record at the same cabin on Caney Fork River where they'd written their 2013 EP Chasing Down the Wind. "That cabin is a sacred place for us," Jenkins says. "When you're out there and your phone doesn't work and you can just jump in the river and relax --- that environment really affects the things you want to write and sing about." 
+
+That sense of freedom --- what the Eagles once called a "peaceful, easy feeling" --- radiates throughout Fifteen. It is the work of the band making music on their own terms, and keeping the focus on the things that matter most. "We don't let the world define us," says Jenkins. "Those opinions are like leaves in the wind, so easily blown from here to there. We try instead to speak truth into our lives." By doing that, they're bringing truth to their legions of devoted fans as well. "I hope people make great memories to this record," says Ice. "It's not about us, and it's not about the music --- it's about how the music enhances their lives. If anybody can listen to the record and know that they can experience life through this record, and hopefully have a better perspective on what matters and what doesn't --- at the end of the day, that's the biggest thing that we could hope for."
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/27cfb3aa-23c7-4318-a311-6af6b3cc68bf.jpg)
