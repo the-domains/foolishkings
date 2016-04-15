@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-15T16:47:45.175Z'
-dateModified: '2016-04-15T16:42:29.149Z'
+datePublished: '2016-04-15T16:49:49.539Z'
+dateModified: '2016-04-15T16:47:54.178Z'
 title: Foolish Kings
 author: []
 sourcePath: _posts/2016-04-15-foolish-kings.md
