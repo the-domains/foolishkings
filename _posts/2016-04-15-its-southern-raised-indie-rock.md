@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: "“It’s Southern raised Indie-Rock\"\_"
-datePublished: '2016-04-15T16:40:24.950Z'
-dateModified: '2016-04-15T16:26:27.896Z'
+datePublished: '2016-04-15T17:03:41.143Z'
+dateModified: '2016-04-15T17:03:31.394Z'
 title: The Roosevelts
 author: []
 sourcePath: _posts/2016-04-15-its-southern-raised-indie-rock.md
@@ -18,10 +19,11 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: its-southern-raised-indie-rock/index.html
-_type: Article
+_type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/93ad5bca-8523-41d4-a353-b56942719c6c.jpg)
+
 "It's Southern raised Indie-Rock" 
 
 Though it's virtually impossible to classify the thoroughly unique entity that is The Roosevelts, this statement by guitarist Jason Kloess certainly tells part of the story. As one half of the electric duo along with singer James Mason, the two brothers in song -- not blood, though maybe beards -- have been playing together for years and cultivating a sound that's a little bluesy, a little bit country, a little bit rock 'n' roll. Sure, there's some mandolin in there. But most importantly, it's just heartfelt, genuine music that belongs to them alone, not any genre. 
@@ -36,4 +38,3 @@ The hardest part of letting go of medicine for music, was the loss of the sensat
 "We hope our music will break your heart and make you shout for joy, all at the same time," says Kloess. And it certainly will. They've followed their natural inclination to write songs that tap into pure emotion, shaped with jubilant musicianship and introspective lyrics. And they've built a devoted fan base along the way -- a fan base that Mason and Kloess often make sure to chat with on a first-name basis out in the crowd as much as from the stage. 
 
 For their fans, the healing comes in the music -- cathartic, joyful, full of life and light. It's unique, it's The Roosevelts, it's southern raised indie rock.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/93ad5bca-8523-41d4-a353-b56942719c6c.jpg)
