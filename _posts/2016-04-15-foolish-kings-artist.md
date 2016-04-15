@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: Green River Ordinance
-datePublished: '2016-04-15T18:00:34.555Z'
-dateModified: '2016-04-15T18:00:01.018Z'
-title: Foolish Kings Artist
+datePublished: '2016-04-15T18:05:43.358Z'
+dateModified: '2016-04-15T18:05:24.856Z'
+title: Management Clients
 author: []
 sourcePath: _posts/2016-04-15-foolish-kings-artist.md
 published: true
